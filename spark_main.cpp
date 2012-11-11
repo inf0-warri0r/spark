@@ -1,6 +1,6 @@
 /*
 *Author :Tharindra Galahena
-*Project:SPARK - Crawling Robote A.I.
+*Project:SPARK - Crawling Robot A.I.
 *Date   :11/11/2012
 *License:
 * 
@@ -132,7 +132,7 @@ int main(int argc, char** argv){
 	s = new spark(0, 0, 7, 4, 0.9, 0.01, 10);
 	cout << "-----------------------------------------------" << endl;
 	cout << endl;
-	cout << "       --- SPARK - CRAWLING ROBORT A.I. ---     " << endl;
+	cout << "       --- SPARK - CRAWLING ROBOT A.I. ---     " << endl;
 	cout << endl;
 	cout << "created by : tharindra galahena (inf0_warri0r) " << endl;
 	cout << "blog       : www.inf0warri0r.blogspot.com      " << endl;

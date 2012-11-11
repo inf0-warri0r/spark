@@ -1,6 +1,6 @@
 /*
 *Author :Tharindra Galahena
-*Project:SPARK - Crawling Robote A.I.
+*Project:SPARK - Crawling Robot A.I.
 *Date   :11/11/2012
 *License:
 * 
